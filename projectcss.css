@@ -14,7 +14,10 @@
 	 color:beige;
 	 font-family: verdana;
  }
- 
+ .bodystyle{
+	 background-image:url(Books.jpg);background-size: cover;background-repeat:none;
+	 
+ }
  .menu {
   overflow: auto;
   background-color: wheat;
