@@ -6,18 +6,18 @@
   left: 0;
  }
  .bodystyle{
-	 background-image:url(background.jpg);background-size: cover;background-repeat:none;
+	 background-image:url(Background.jpg);background-size: cover;background-repeat:none;
 	 
  }
+ 
+ 
+ 
  .booksheader{
 	 
 	 color:beige;
 	 font-family: verdana;
  }
- .bodystyle{
-	 background-image:url(Background.jpg);background-size: cover;background-repeat:none;
-	 
- }
+ 
  .menu {
   overflow: auto;
   background-color: wheat;
